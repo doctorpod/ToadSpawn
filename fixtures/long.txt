@@ -1,0 +1,28 @@
+TravelBloggers Unite ‏@tbloggersunite
+That awkward moment when Fábio Coentrão spoils a perfectly good photo #TBUPOR
+Expand
+ Reply  Retweet  Favorite Buffer
+2h Paul Ricketts ‏@sifu33
+I liked a @YouTube video from @kungfujack1 http://youtu.be/3P6xk1xZXyA?a KungFuJack Goes For A Stroll
+ View media
+ Reply  Retweet  Favorite Buffer
+2h Jayne Gorman ‏@jayneytravels
+And I won the business card draw (again!) Framed photo of @Melbourne street art is mine! #greatjourneys
+Expand
+ Reply  Retweet  Favorite Buffer
+2h Mike Phillips ‏@mcphillips
+RT @GFQNetwork: What the Tech is live at 4pm ET W/ Paul @thurrott and @andrewzarian. Watch and chat with us http://www.gfqlive.tv
+Expand
+ Reply  Retweet  Favorite Buffer
+2h Keith Fowler ‏@Keith_Fowler
+Seeing the Ukelele Orchestra of Great Britain @Worthingtheaters Yay!
+Expand
+ Reply  Retweet  Favorite Buffer
+9h Jane Hames ‏@glidetraining
+Just 12 spaces left for @mumpre
+==============
+
+Element Reference—If passed a single Fixnum, returns the code of the character at that position. If passed two Fixnum objects, returns a substring starting at the offset given by the first, and a length given by the second. If given a range, a substring containing characters at offsets given by the range is returned. In all three cases, if an offset is negative, it is counted from the end of str. Returns nil if the initial offset falls outside the string, the length is negative, or the beginning of the range is greater than the end.
+
+If a Regexp is supplied, the matching portion of str is returned. If a numeric parameter follows the regular expression, that component of the MatchData is returned instead. If a String is given, that string is returned if it occurs in str. In both cases, nil is returned if there is no match.
+
